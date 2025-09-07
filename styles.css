@@ -101,7 +101,6 @@ main img {
 .marks td,
 .marks {
     border: 2px solid black;
-    width: 50%;
     border-collapse: collapse;
     padding: 0 2rem;
     table-layout: fixed;
