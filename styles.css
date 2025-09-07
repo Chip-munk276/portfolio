@@ -138,6 +138,9 @@ footer {
     main img{
         margin-bottom: 1rem;
     }
+    .skills {
+        flex-direction: column;
+}
     .marks{
         display: inline;
     }
